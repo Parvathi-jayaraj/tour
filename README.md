@@ -1,1 +1,1 @@
-# tour
+# tourism_spots_calicut
